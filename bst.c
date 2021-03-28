@@ -1,6 +1,6 @@
 /*******************************************************************************
-*
-* Purpose: Binary search tree demonstration.
+* d 
+* Purpose: Binary search tree demonstration. 
 *
 * Description: This binary search tree contains no duplicates.  This file 
 * contains all functions created during the week 8 lectures and week 9 
