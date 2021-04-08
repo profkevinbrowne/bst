@@ -1,5 +1,5 @@
 /*******************************************************************************
-* d trivial modification 
+* d trivial modification. This is a comment. 
 * Purpose: Binary search tree demonstration. 
 *
 * Description: This binary search tree contains no duplicates.  This file 
